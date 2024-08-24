@@ -1,0 +1,15 @@
+{
+  "name": "git-tags-test",
+  "version": "2.0.0",
+  "description": "Learn tags with git",
+  "main": "index.js",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
